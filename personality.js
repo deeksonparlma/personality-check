@@ -6,7 +6,7 @@ function personality(){
   if(animal=="dog" && type==="introvert"){
      alert(name+" "+"Your personality is at 40%");
   }
-  else if(animal==="dog" && type==="introvert"){
+  else if(animal==="dog" && type==="extrovert"){
      alert(name+" "+"Your personality is at 80%");
   }
   else if(animal==="cat" && type==="introvert"){
