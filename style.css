@@ -5,6 +5,9 @@
   height: 300px;
   background-color:#A89EBD;
 }
+.usr {
+  padding-top: 5px;
+}
 
 .btn {
   height: 100px;
@@ -15,7 +18,7 @@
 #headd{
   background-color: #91B9C3;
   height: 140px;
-  font-size: 10px;
+  font-size: 15px;
   display: flex;
 }
 .icon{
@@ -50,5 +53,8 @@
 }
 .fit{
   padding-left: 420px;
+}
+.usr {
+  padding-top: 5px;
 }
 }
